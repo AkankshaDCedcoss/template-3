@@ -1,0 +1,45 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.innerdiv ul{
+    list-style: none;
+    text-align: right;
+    margin-right: 40px;
+    margin-top: 30;
+}
+.innerdiv li{
+    display: inline-block;
+}
+.innerdiv a{
+    padding: 10px 15px;
+}
+.head1
+{
+    margin:40px;
+}
+.list1
+{
+    margin: 30px;
+}
+.para1
+{
+    float:left;
+}
+.middle
+{
+    background-color: papayawhip;
+    width: 90%;
+    height: 300px;
+    padding: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#button 
+{
+    margin-top:2px;
+    margin-left: 3px;
+    padding:2px;
+}
