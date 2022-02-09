@@ -1,45 +1,81 @@
-*
-{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-.innerdiv ul{
-    list-style: none;
-    text-align: right;
-    margin-right: 40px;
-    margin-top: 30;
+.innerdiv ul {
+  list-style: none;
+  text-align: right;
+  margin-right: 40px;
+  margin-top: 30;
 }
-.innerdiv li{
-    display: inline-block;
+.innerdiv li {
+  display: inline-block;
 }
-.innerdiv a{
-    padding: 10px 15px;
+.innerdiv a {
+  padding: 10px 15px;
 }
-.head1
-{
-    margin:40px;
+.head1 {
+  margin: 4%;
+  margin-left: 10%;
 }
-.list1
-{
-    margin: 30px;
+.list1 {
+  margin: 30px;
 }
-.para1
-{
-    float:left;
+.para1 {
+  float: left;
+  padding-left: 3%;
+  padding-top: 2%;
 }
-.middle
-{
-    background-color: papayawhip;
-    width: 90%;
-    height: 300px;
-    padding: 50px;
-    margin-left: 100px;
-    margin-right: 100px;
+.middle {
+  background-color: papayawhip;
+  width: 87%;
+  height: 300px;
+  padding: 2%;
+  margin: 3% 5% 2% 5%;
 }
-#button 
-{
-    margin-top:2px;
-    margin-left: 3px;
-    padding:2px;
+#button {
+  margin-top: 2%;
+  margin-left: 3%;
+  padding: 0 1%;
+  margin-bottom: 4%;
+}
+.one {
+  background-color: papayawhip;
+  width: 18%;
+  height: 150px;
+  margin-right: 5%;
+  margin-top: 20px;
+  float: left;
+  margin-left: 10%;
+  color: papayawhip;
+}
+
+.idea {
+  margin-left: 3%;
+  width: 27%;
+  margin-right: 3%;
+  float: left;
+  text-align: center;
+}
+
+.main {
+  text-align: center;
+}
+.idea a {
+  color: grey;
+}
+.div1 {
+  width: 90%;
+  float: left;
+  margin: 0% 5% 2% 5%;
+}
+
+h2 {
+  padding-top: 4%;
+  padding-left: 3%;
+}
+.para1 {
+  padding-top: 2%;
+  padding-left: 3%;
 }
