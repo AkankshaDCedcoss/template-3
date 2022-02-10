@@ -52,18 +52,55 @@
 }
 
 .idea {
-  margin-left: 3%;
-  width: 27%;
-  margin-right: 3%;
+  margin-left: 2%;
+  width: 25%;
+  margin-right: 2%;
   float: left;
   text-align: center;
+  padding-top: 3% ;
+  padding-left: 10%;
+  padding-bottom: 3%;
+
+}
+.jio {
+  margin-left: 2%;
+  width: 25%;
+  margin-right: 2%;
+  float: left;
+  text-align: center;
+  padding-top: 3% ;
+  padding-left: 14%;
+  padding-bottom: 3%;
+
+}
+.voda{
+  margin-left: 2%;
+  width: 25%;
+  margin-right: 2%;
+  float: left;
+  text-align: center;
+  padding-top: 3% ;
+  padding-left: 15%;
+  padding-bottom: 3%;
+  
+
 }
 
 .main {
   text-align: center;
+  
 }
 .idea a {
   color: grey;
+  text-align: center;
+}
+.jio a {
+  color: grey;
+  text-align: center;
+}
+.voda a {
+  color: grey;
+  text-align: center;
 }
 .div1 {
   width: 90%;
@@ -78,4 +115,91 @@ h2 {
 .para1 {
   padding-top: 2%;
   padding-left: 3%;
+}
+
+.mylabel
+{
+    padding-top: 1%;
+    padding-left: 1%;
+    font-size: 1.2em;
+    text-size-adjust: auto;
+}
+.userinput
+{
+    width:30%;
+    padding: 12px 20px ;
+    margin: 10px 10px;
+    border:1px solid rgb(211, 202, 202) ;
+    box-sizing: border-box;
+    border-radius: 4px;
+    text-size-adjust: auto;
+}
+.submit
+{
+    width:20%;
+    background-color: blue;
+    color: whitesmoke;
+    border: 1px solid grey;
+    text-align: center;
+    text-decoration: none;
+    padding: 8px 50px 12px 30px;
+    margin: 4px 2px;
+    font-size: 100%;
+    display: inline-block;
+
+}
+.p2
+{
+    float: left;
+    padding: 5% 0 5% 5%;
+}
+.p3
+{
+    float: right;
+    padding: 5%;
+    margin: 2% 0;
+}
+.p1{
+  float: left;
+  padding: 5% 0 5% 5%;
+}
+.div4{
+  margin-top:5px ;
+  width: 100%;
+  padding:2%;
+  height: 70px;
+  text-align: center;
+  display:inline-block; 
+  background-color: papayawhip;
+
+  
+  
+} 
+.button {
+  background-color:blue;
+  border: none;
+  color: white;
+  padding: 8px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button2 {background-color: #008CBA;}
+.lbl{
+  font-size: 20px;
+  font: bold;
+  margin-bottom: 4%;
+}
+
+.divf1{
+  padding-left:2%;
+  float:left;
+}
+.divf2{
+  padding-right:2%;
+  float:right;
 }
